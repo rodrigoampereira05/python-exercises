@@ -6,6 +6,8 @@ for i in frutas:
     print(i)
 
 print("\n")
+
+#Exercise B
 numero = 10
 while numero >= 0:
     print(numero)
